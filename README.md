@@ -1,6 +1,5 @@
-<!-- BANNER: 临时用 capsule-render；Codex 出图后替换成 ./assets/banner.png -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7CF6&height=210&section=header&text=Chasingwind-Z&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=building%20fun%20things%20with%20LLMs&descSize=18&descAlignY=70" width="100%" alt="Chasingwind-Z"/>
+  <img src="./assets/banner.svg" width="100%" alt="Chasingwind-Z"/>
 </div>
 
 <div align="center">

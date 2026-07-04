@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace">
+  <style>
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+    @keyframes pulse{0%,100%{r:5;opacity:1}50%{r:8;opacity:.5}}
+    @keyframes sweep{0%{transform:translateX(-40px)}100%{transform:translateX(1320px)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    .cur{animation:blink 1.1s steps(1) infinite}
+    .tw{animation:tw 2.4s ease-in-out infinite}
+    .nd{animation:pulse 2.6s ease-in-out infinite}
+    .scan{animation:sweep 6s linear infinite}
+    .cat{animation:bob 3.2s ease-in-out infinite;transform-origin:center}
+    .t{fill:#E6EDF3}.mut{fill:#7D8590}.pur{fill:#A78BFA}.tea{fill:#2DD4BF}.amb{fill:#F0B429}
+  </style>
+
+  <rect width="1280" height="360" rx="18" fill="#0D1117"/>
+  <rect x="2" y="2" width="1276" height="356" rx="17" fill="none" stroke="#21262D" stroke-width="2"/>
+
+  <g class="tw"><circle cx="120" cy="70" r="2.5" fill="#A78BFA"/></g>
+  <g class="tw" style="animation-delay:.6s"><circle cx="1180" cy="90" r="2.5" fill="#2DD4BF"/></g>
+  <g class="tw" style="animation-delay:1.1s"><circle cx="1090" cy="300" r="2.5" fill="#F0B429"/></g>
+  <g class="tw" style="animation-delay:.3s"><circle cx="70" cy="290" r="2" fill="#2DD4BF"/></g>
+
+  <rect class="scan" x="0" y="0" width="40" height="360" fill="#A78BFA" opacity="0.05"/>
+
+  <g transform="translate(70,86)">
+    <rect width="470" height="200" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <circle cx="26" cy="26" r="6" fill="#FF5F56"/><circle cx="48" cy="26" r="6" fill="#FFBD2E"/><circle cx="70" cy="26" r="6" fill="#27C93F"/>
+    <text x="26" y="82" font-size="20"><tspan class="tea">$</tspan> <tspan class="t">whoami</tspan></text>
+    <text x="26" y="116" font-size="20"><tspan class="mut">&#8250;</tspan> <tspan class="pur">LLM / agent builder</tspan></text>
+    <text x="26" y="150" font-size="20"><tspan class="tea">$</tspan> <tspan class="t">./build</tspan> <tspan class="amb">fun-things</tspan></text>
+    <rect class="cur" x="296" y="134" width="11" height="20" fill="#E6EDF3"/>
+  </g>
+
+  <g transform="translate(760,120)">
+    <line x1="60" y1="40" x2="200" y2="20" stroke="#30363D" stroke-width="2"/>
+    <line x1="60" y1="40" x2="180" y2="150" stroke="#30363D" stroke-width="2"/>
+    <line x1="200" y1="20" x2="330" y2="90" stroke="#30363D" stroke-width="2"/>
+    <line x1="180" y1="150" x2="330" y2="90" stroke="#30363D" stroke-width="2"/>
+    <circle class="nd" cx="60" cy="40" r="5" fill="#A78BFA"/>
+    <circle class="nd" cx="200" cy="20" r="5" fill="#2DD4BF" style="animation-delay:.5s"/>
+    <circle class="nd" cx="180" cy="150" r="5" fill="#F0B429" style="animation-delay:1s"/>
+    <circle class="nd" cx="330" cy="90" r="5" fill="#A78BFA" style="animation-delay:1.5s"/>
+  </g>
+
+  <g transform="translate(1090,116)"><g class="cat">
+    <polygon points="18,26 30,4 42,26" fill="#F4A261"/>
+    <polygon points="78,26 90,4 102,26" fill="#F4A261"/>
+    <polygon points="22,24 30,10 38,24" fill="#FFD9B3"/>
+    <polygon points="82,24 90,10 98,24" fill="#FFD9B3"/>
+    <rect x="14" y="24" width="92" height="86" rx="26" fill="#F4A261"/>
+    <ellipse cx="60" cy="96" rx="30" ry="24" fill="#FFE8D6"/>
+    <circle cx="44" cy="58" r="6" fill="#2B2B2B"/><circle cx="76" cy="58" r="6" fill="#2B2B2B"/>
+    <circle cx="46" cy="56" r="2" fill="#fff"/><circle cx="78" cy="56" r="2" fill="#fff"/>
+    <path d="M54 72 q6 6 12 0" stroke="#2B2B2B" stroke-width="2.5" fill="none"/>
+    <polygon points="57,66 63,66 60,71" fill="#E9967A"/>
+    <path d="M106 96 q34 4 30 -40" stroke="#F4A261" stroke-width="13" fill="none" stroke-linecap="round"/>
+  </g></g>
+
+  <text x="70" y="330" font-size="34" font-weight="700" letter-spacing="2">
+    <tspan class="pur">Chasingwind</tspan><tspan class="tea">-Z</tspan>
+  </text>
+  <text x="392" y="330" font-size="17" class="mut">building fun things with LLMs</text>
+</svg>
