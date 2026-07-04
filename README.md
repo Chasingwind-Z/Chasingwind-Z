@@ -12,11 +12,34 @@
 
 ## ▸ stack · 技术栈
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,docker,git,linux,sqlite&theme=dark" alt="stack"/>
-</p>
-
-`LangGraph` · `MCP` · `RAG / 向量检索` · `Claude Code` · `Codex`
+<table>
+  <tr>
+    <td width="120"><sub><b>languages</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="120"><sub><b>llm / agent</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-1E1E1E?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-5A4FCF?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="120"><sub><b>infra / tools</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ## ▸ stats · 战绩
 
