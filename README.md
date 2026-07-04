@@ -8,10 +8,11 @@
 
 ## ▸ who am i
 
-<!-- MASCOT: save the GPT-generated transparent cat as assets/mascot.png, then uncomment the next line -->
-<!-- <img align="right" width="230" src="./assets/mascot.png" alt="mascot"/> -->
+<img align="right" width="240" src="./assets/mascot.png" alt="coding cat mascot"/>
 
 Into LLMs end to end — from the application layer (agents, RAG, dev tooling, embodied AI) down to the model tech and infra underneath. I like turning ideas into things that actually run and get used.
+
+<br clear="right"/>
 
 ## ▸ stack
 
