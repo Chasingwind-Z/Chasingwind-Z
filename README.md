@@ -10,7 +10,12 @@
 
 <img align="right" width="240" src="./assets/mascot.png" alt="coding cat mascot"/>
 
-Into LLMs end to end — from the application layer (agents, RAG, dev tooling, embodied AI) down to the model tech and infra underneath. I like turning ideas into things that actually run and get used.
+Into LLMs end to end — from the application layer (agents, RAG, dev tooling, embodied AI) down to the model tech and infra underneath. I'd rather ship something that runs and gets used than leave it on the whiteboard.
+
+- **building** — agentic apps, dev tooling, and the occasional small game
+- **digging into** — how the models work under the hood: training, serving, infra
+- **heading toward** — LLM engineering, end to end
+- **also** — Taurus ♉, runs on cats and curiosity
 
 <br clear="right"/>
 

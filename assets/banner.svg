@@ -31,14 +31,18 @@
   </g>
 
   <g>
-    <path d="M630 150 L740 105 M630 150 L720 240 M740 105 L880 175 M720 240 L880 175 M880 175 L1010 120 M880 175 L1030 255 M1010 120 L1150 180 M1030 255 L1150 180 M1010 120 L1030 255" stroke="#3B4A63" stroke-width="2" fill="none" opacity="0.85"/>
-    <circle class="nd" cx="630" cy="150" r="5" fill="#A78BFA"/>
-    <circle class="nd" cx="740" cy="105" r="5" fill="#2DD4BF" style="animation-delay:.4s"/>
-    <circle class="nd" cx="720" cy="240" r="5" fill="#F0B429" style="animation-delay:.8s"/>
-    <circle class="nd" cx="880" cy="175" r="5" fill="#A78BFA" style="animation-delay:1.2s"/>
-    <circle class="nd" cx="1010" cy="120" r="5" fill="#2DD4BF" style="animation-delay:1.6s"/>
-    <circle class="nd" cx="1030" cy="255" r="5" fill="#F0B429" style="animation-delay:2s"/>
-    <circle class="nd" cx="1150" cy="180" r="5" fill="#A78BFA" style="animation-delay:2.4s"/>
+    <path d="M680 115 L775 160 L880 205 L995 155 L1105 105 M880 205 L905 255" stroke="#3B4A63" stroke-width="2" fill="none" opacity="0.9"/>
+    <circle class="nd" cx="605" cy="88" r="3" fill="#2DD4BF" style="animation-delay:.2s"/>
+    <circle class="nd" cx="620" cy="98" r="2.5" fill="#2DD4BF" style="animation-delay:.9s"/>
+    <circle class="nd" cx="598" cy="101" r="2.5" fill="#2DD4BF" style="animation-delay:1.5s"/>
+    <circle class="nd" cx="680" cy="115" r="5" fill="#2DD4BF" style="animation-delay:.3s"/>
+    <circle class="nd" cx="775" cy="160" r="5" fill="#A78BFA" style="animation-delay:.8s"/>
+    <circle class="nd" cx="995" cy="155" r="5" fill="#A78BFA" style="animation-delay:1.3s"/>
+    <circle class="nd" cx="1105" cy="105" r="5" fill="#2DD4BF" style="animation-delay:1.7s"/>
+    <circle class="nd" cx="905" cy="255" r="4" fill="#A78BFA" style="animation-delay:2.1s"/>
+    <circle cx="880" cy="205" r="11" fill="#F0B429" opacity="0.22"/>
+    <circle cx="880" cy="205" r="7" fill="#F5B942"/>
+    <text x="1118" y="256" font-size="20" fill="#7D6FB0" opacity="0.5">&#9809;</text>
   </g>
 
   <text x="70" y="312" font-size="34" font-weight="700" letter-spacing="2">
