@@ -24,7 +24,7 @@
   <g transform="translate(70,80)">
     <rect width="470" height="188" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
     <circle cx="26" cy="26" r="6" fill="#FF5F56"/><circle cx="48" cy="26" r="6" fill="#FFBD2E"/><circle cx="70" cy="26" r="6" fill="#27C93F"/>
-    <text x="26" y="80" font-size="20"><tspan class="tea">$</tspan> <tspan class="t">whoami</tspan></text>
+    <text x="26" y="80" font-size="20"><tspan class="tea">$</tspan> <tspan class="t">who am i</tspan></text>
     <text x="26" y="114" font-size="20"><tspan class="mut">&#8250;</tspan> <tspan class="pur">LLM &#183; apps to infra</tspan></text>
     <text x="26" y="148" font-size="20"><tspan class="tea">$</tspan> <tspan class="t">./build</tspan> <tspan class="amb">things-that-run</tspan></text>
     <rect class="cur" x="332" y="132" width="11" height="20" fill="#E6EDF3"/>

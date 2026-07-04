@@ -6,11 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=building+with+LLMs,+from+apps+to+infra;agents,+RAG,+embodied+AI+%26+the+infra+behind+them;turning+ideas+into+things+that+run" alt="typing"/>
 </div>
 
-## ▸ whoami
+## ▸ who am i
 
-对 LLM 感兴趣 —— 从上层应用（agent、RAG、开发、具身智能）到底层的模型技术与 infra，都想弄明白、也想动手做。喜欢把想法做成能跑、有人用的东西。
+<!-- MASCOT: save the GPT-generated transparent cat as assets/mascot.png, then uncomment the next line -->
+<!-- <img align="right" width="230" src="./assets/mascot.png" alt="mascot"/> -->
 
-## ▸ stack · 技术栈
+Into LLMs end to end — from the application layer (agents, RAG, dev tooling, embodied AI) down to the model tech and infra underneath. I like turning ideas into things that actually run and get used.
+
+## ▸ stack
 
 <table>
   <tr>
@@ -41,13 +44,13 @@
   </tr>
 </table>
 
-## ▸ stats · 战绩
+## ▸ stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Chasingwind-Z&hide_border=true&theme=tokyonight" alt="streak"/>
 </div>
 
-<!-- 贡献蛇：由 .github/workflows/snake.yml 生成到 output 分支 -->
+<!-- contribution snake: generated to the output branch by .github/workflows/snake.yml -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chasingwind-Z/Chasingwind-Z/output/github-snake.svg" alt="contribution snake"/>
 </div>
