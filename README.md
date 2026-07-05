@@ -10,44 +10,9 @@
 
 <img align="right" width="240" src="./assets/mascot.png" alt="coding cat mascot"/>
 
-Into LLMs end to end — from the application layer (agents, RAG, dev tooling, embodied AI) down to the model tech and infra underneath. I'd rather ship something that runs and gets used than leave it on the whiteboard.
-
-- **building** — agentic apps, dev tooling, and the occasional small game
-- **digging into** — how the models work under the hood: training, serving, infra
-- **heading toward** — LLM engineering, end to end
+I work with large language models and just about everything around them, from the parts people actually touch, like agents, RAG, dev tooling and a bit of embodied AI, down to the model tech and infrastructure running underneath. What I enjoy most is taking an idea and turning it into something real, whether that's a tool that's genuinely useful or a small side project I build just because it would be fun to have around. I care more about shipping something that runs and gets used than about keeping it as a tidy plan, so most of what you'll find here is stuff you can open and actually try.
 
 <br clear="right"/>
-
-## ▸ stack
-
-<table>
-  <tr>
-    <td width="120"><sub><b>languages</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="120"><sub><b>llm / agent</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP-1E1E1E?style=for-the-badge&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-5A4FCF?style=for-the-badge&logo=databricks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="120"><sub><b>infra / tools</b></sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 ## ▸ stats
 
