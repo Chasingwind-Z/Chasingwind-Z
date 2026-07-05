@@ -31,18 +31,20 @@
   </g>
 
   <g>
-    <path d="M680 115 L775 160 L880 205 L995 155 L1105 105 M880 205 L905 255" stroke="#3B4A63" stroke-width="2" fill="none" opacity="0.9"/>
-    <circle class="nd" cx="605" cy="88" r="3" fill="#2DD4BF" style="animation-delay:.2s"/>
-    <circle class="nd" cx="620" cy="98" r="2.5" fill="#2DD4BF" style="animation-delay:.9s"/>
-    <circle class="nd" cx="598" cy="101" r="2.5" fill="#2DD4BF" style="animation-delay:1.5s"/>
-    <circle class="nd" cx="680" cy="115" r="5" fill="#2DD4BF" style="animation-delay:.3s"/>
-    <circle class="nd" cx="775" cy="160" r="5" fill="#A78BFA" style="animation-delay:.8s"/>
-    <circle class="nd" cx="995" cy="155" r="5" fill="#A78BFA" style="animation-delay:1.3s"/>
-    <circle class="nd" cx="1105" cy="105" r="5" fill="#2DD4BF" style="animation-delay:1.7s"/>
-    <circle class="nd" cx="905" cy="255" r="4" fill="#A78BFA" style="animation-delay:2.1s"/>
-    <circle cx="880" cy="205" r="11" fill="#F0B429" opacity="0.22"/>
-    <circle cx="880" cy="205" r="7" fill="#F5B942"/>
-    <text x="1118" y="256" font-size="20" fill="#7D6FB0" opacity="0.5">&#9809;</text>
+    <path d="M655 115 L810 95 M655 115 L810 150 M655 115 L810 205 M655 115 L810 260 M655 175 L810 95 M655 175 L810 150 M655 175 L810 205 M655 175 L810 260 M655 235 L810 95 M655 235 L810 150 M655 235 L810 205 M655 235 L810 260 M810 95 L965 95 M810 95 L965 150 M810 95 L965 205 M810 95 L965 260 M810 150 L965 95 M810 150 L965 150 M810 150 L965 205 M810 150 L965 260 M810 205 L965 95 M810 205 L965 150 M810 205 L965 205 M810 205 L965 260 M810 260 L965 95 M810 260 L965 150 M810 260 L965 205 M810 260 L965 260 M965 95 L1120 150 M965 95 L1120 205 M965 150 L1120 150 M965 150 L1120 205 M965 205 L1120 150 M965 205 L1120 205 M965 260 L1120 150 M965 260 L1120 205" stroke="#34405C" stroke-width="1.2" fill="none" opacity="0.55"/>
+    <circle class="nd" cx="655" cy="115" r="5" fill="#2DD4BF" style="animation-delay:0.0s"/>
+    <circle class="nd" cx="655" cy="175" r="5" fill="#2DD4BF" style="animation-delay:0.25s"/>
+    <circle class="nd" cx="655" cy="235" r="5" fill="#2DD4BF" style="animation-delay:0.5s"/>
+    <circle class="nd" cx="810" cy="95" r="5" fill="#A78BFA" style="animation-delay:0.75s"/>
+    <circle class="nd" cx="810" cy="150" r="5" fill="#A78BFA" style="animation-delay:1.0s"/>
+    <circle class="nd" cx="810" cy="205" r="5" fill="#A78BFA" style="animation-delay:1.25s"/>
+    <circle class="nd" cx="810" cy="260" r="5" fill="#A78BFA" style="animation-delay:1.5s"/>
+    <circle class="nd" cx="965" cy="95" r="5" fill="#A78BFA" style="animation-delay:1.75s"/>
+    <circle class="nd" cx="965" cy="150" r="5" fill="#A78BFA" style="animation-delay:2.0s"/>
+    <circle class="nd" cx="965" cy="205" r="5" fill="#A78BFA" style="animation-delay:2.25s"/>
+    <circle class="nd" cx="965" cy="260" r="5" fill="#A78BFA" style="animation-delay:2.5s"/>
+    <circle class="nd" cx="1120" cy="150" r="5" fill="#F0B429" style="animation-delay:2.75s"/>
+    <circle class="nd" cx="1120" cy="205" r="5" fill="#F0B429" style="animation-delay:3.0s"/>
   </g>
 
   <text x="70" y="312" font-size="34" font-weight="700" letter-spacing="2">

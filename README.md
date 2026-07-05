@@ -15,7 +15,6 @@ Into LLMs end to end — from the application layer (agents, RAG, dev tooling, e
 - **building** — agentic apps, dev tooling, and the occasional small game
 - **digging into** — how the models work under the hood: training, serving, infra
 - **heading toward** — LLM engineering, end to end
-- **also** — Taurus ♉, runs on cats and curiosity
 
 <br clear="right"/>
 
