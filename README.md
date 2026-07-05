@@ -51,12 +51,10 @@ Into LLMs end to end — from the application layer (agents, RAG, dev tooling, e
 
 ## ▸ stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chasingwind-Z&hide_border=true&theme=tokyonight" alt="streak"/>
-</div>
+<img width="100%" src="https://streak-stats.demolab.com?user=Chasingwind-Z&hide_border=true&theme=tokyonight&card_width=820" alt="streak"/>
 
 <!-- activity line graph (fills width; dark tokyo-night theme) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chasingwind-Z&theme=tokyo-night&hide_border=true&area=true&line=a78bfa&point=2dd4bf&color=a78bfa" alt="contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chasingwind-Z&theme=tokyo-night&hide_border=true&area=true&line=a78bfa&point=2dd4bf&color=a78bfa&custom_title=Contribution%20Graph" alt="contribution activity graph"/>
 
 <!-- contribution snake: generated to the output branch by .github/workflows/snake.yml (updates daily) -->
 <picture>
