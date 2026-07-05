@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=building+with+LLMs,+from+apps+to+infra;agents,+RAG,+embodied+AI+%26+the+infra+behind+them;turning+ideas+into+things+that+run" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Large+language+model+systems,+end+to+end;Agents+and+retrieval,+down+to+model+tech+and+infrastructure;Building+systems,+and+understanding+how+they+work" alt="typing"/>
 </div>
 
 ## ▸ who am i
