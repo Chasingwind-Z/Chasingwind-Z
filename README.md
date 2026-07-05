@@ -55,7 +55,8 @@ Into LLMs end to end — from the application layer (agents, RAG, dev tooling, e
   <img src="https://streak-stats.demolab.com?user=Chasingwind-Z&hide_border=true&theme=tokyonight" alt="streak"/>
 </div>
 
-<!-- contribution snake: generated to the output branch by .github/workflows/snake.yml -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chasingwind-Z/Chasingwind-Z/output/github-snake.svg" alt="contribution snake"/>
-</div>
+<!-- contribution snake: generated to the output branch by .github/workflows/snake.yml (updates daily) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chasingwind-Z/Chasingwind-Z/output/github-snake-dark.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Chasingwind-Z/Chasingwind-Z/output/github-snake.svg" alt="contribution snake"/>
+</picture>
